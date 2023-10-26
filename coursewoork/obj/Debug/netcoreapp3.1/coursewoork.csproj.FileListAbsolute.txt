@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\coursewoork\coursewoork\bin\Debug\netcoreapp3.1\coursewoork.exe
+C:\Users\User\source\repos\coursewoork\coursewoork\bin\Debug\netcoreapp3.1\coursewoork.deps.json
+C:\Users\User\source\repos\coursewoork\coursewoork\bin\Debug\netcoreapp3.1\coursewoork.runtimeconfig.json
+C:\Users\User\source\repos\coursewoork\coursewoork\bin\Debug\netcoreapp3.1\coursewoork.runtimeconfig.dev.json
+C:\Users\User\source\repos\coursewoork\coursewoork\bin\Debug\netcoreapp3.1\coursewoork.dll
+C:\Users\User\source\repos\coursewoork\coursewoork\bin\Debug\netcoreapp3.1\coursewoork.pdb
+C:\Users\User\source\repos\coursewoork\coursewoork\obj\Debug\netcoreapp3.1\coursewoork.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\coursewoork\coursewoork\obj\Debug\netcoreapp3.1\coursewoork.Form1.resources
+C:\Users\User\source\repos\coursewoork\coursewoork\obj\Debug\netcoreapp3.1\coursewoork.csproj.GenerateResource.cache
+C:\Users\User\source\repos\coursewoork\coursewoork\obj\Debug\netcoreapp3.1\coursewoork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\coursewoork\coursewoork\obj\Debug\netcoreapp3.1\coursewoork.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\coursewoork\coursewoork\obj\Debug\netcoreapp3.1\coursewoork.AssemblyInfo.cs
+C:\Users\User\source\repos\coursewoork\coursewoork\obj\Debug\netcoreapp3.1\coursewoork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\coursewoork\coursewoork\obj\Debug\netcoreapp3.1\coursewoork.dll
+C:\Users\User\source\repos\coursewoork\coursewoork\obj\Debug\netcoreapp3.1\coursewoork.pdb
+C:\Users\User\source\repos\coursewoork\coursewoork\obj\Debug\netcoreapp3.1\coursewoork.genruntimeconfig.cache
